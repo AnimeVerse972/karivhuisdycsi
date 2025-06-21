@@ -1,4 +1,4 @@
-anime_posts = {
+{
     "1": {"channel": "@AniVerseClip", "message_id": 10},
     "2": {"channel": "@AniVerseClip", "message_id": 23},
     "3": {"channel": "@AniVerseClip", "message_id": 35},
